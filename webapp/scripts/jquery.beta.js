@@ -1,7 +1,5 @@
 var regionData = null;
-$.fn.createChart = function(value) {
-    var html = 'poop';
-    
+$.fn.createChart = function(value) {    
     getData = function(){	
 	if(regionData){
 		switch(regionData){
