@@ -1,0 +1,1 @@
+This is just a test-app using AMD JavaScript and Highcharts to generate charts based on data conditions
